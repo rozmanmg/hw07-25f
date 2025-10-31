@@ -1,3 +1,3 @@
-# Homework assignment 6
+# Homework assignment 7
 
-### Solving systems of ODEs. Working with observational data.
+### White dwarf stars. Representation of floating point numbers in computers.
